@@ -62,7 +62,6 @@ Cada poema individual dentro del poemario:
 
 1. Conecta tu wallet (Phantom, Solflare, etc.)
 2. Asegúrate de estar en la red **devnet** para pruebas
-3. Obtén SOL gratuito desde el faucet si es necesario
 
 ### Paso 3: Interactuar con el Programa
 
